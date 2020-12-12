@@ -42,6 +42,7 @@ font-weight: normal;
 font-size: 14px;
 line-height: 24px;
 color: #FFFFFF;
+letter-spacing: 0.03em;
 }
 .contactable-info {
 color: rgba(255, 255, 255, 0.6);
@@ -86,9 +87,10 @@ font-weight: 500;
 }
 /*инфортмация*/
 .information {
-font-weight: bold;
+font-weight: 700;
 font-size: 14px;
 line-height: 16px;
+text-transform: uppercase;
 }
 .information-text {
 font-weight: normal;
